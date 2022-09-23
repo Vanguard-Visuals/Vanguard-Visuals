@@ -1,4 +1,4 @@
-# 🏄‍♂️ Forrest Knight
+# :wave: Forrest Knight
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
