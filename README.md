@@ -1,8 +1,10 @@
-# :wave: Forrest Knight
+# :wave: MAHDI AHMED ~ | VANGUARD VISUALS
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Graphic Designer, Content Creator & Passionate Developer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Hope your day is going well!
+It is a pleaseure for you to visit my portfolio. I have studied in the faculty of computer science and engineering at the University of Westminster, graduating in a honours degree in digital media development. I am all about design and development, having more than 4+ years of experience in user interface and experience design, full stack development and even dabbling in game dev and 3D software. Outside the dimension of programming, I work as a freelance graphic designer, photographer and filmmaker. At this point, you probably get the gist that I love putting pen to paper and innovating new ideas and ways to help add onto the digital world.
+Feel free to browse around my works and follow me on instagram @Vanguard_Visuals :v:
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
