@@ -1,20 +1,14 @@
-# :wave: MAHDI AHMED ~ | VANGUARD VISUALS
+# :wave: MAHDI AHMED | VANGUARD VISUALS
 
 **`Graphic Designer, Content Creator & Passionate Developer`**
 
 Hope your day is going well!
-It is a pleaseure for you to visit my portfolio. I have studied in the faculty of computer science and engineering at the University of Westminster, graduating in a honours degree in digital media development. I am all about design and development, having more than 4+ years of experience in user interface and experience design, full stack development and even dabbling in game dev and 3D software. Outside the dimension of programming, I work as a freelance graphic designer, photographer and filmmaker. At this point, you probably get the gist that I love putting pen to paper and innovating new ideas and ways to help add onto the digital world.
-Feel free to browse around my works and follow me on instagram @Vanguard_Visuals :v:
+It is a pleasure to welcome you to my portfolio. I am all about design and development, having more than 4+ years of experience in user interface and experience design, full stack development and even dabbling in game dev and 3D software. I am an undergrad and am currently pursuing an honours degree in digital media development at the univeristy of westminster. Aside from programming, I am a freelance graphic designer, photographer, and filmmaker. At this point, you've undoubtedly figured out that I enjoy putting pen to paper and coming up with new ideas and methods to contribute to the digital world.
+Please feel free to browse around my projects and follow me on instagram @Vanguard_Visuals :v:
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://www.instagram.com/vanguard_visuals/">
+         <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
    </p>
 
 ---
