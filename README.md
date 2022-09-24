@@ -9,10 +9,10 @@ Please feel free to browse around my projects and follow me on instagram @Vangua
    <p align="left">
       <a href="https://www.instagram.com/vanguard_visuals/">
          <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-00B1DE?style=for-the-badge&logo=person&logoColor=white"/></a>
-         <a href="https://www.instagram.com/vanguard_visuals/">
+<!--          <a href="https://www.instagram.com/vanguard_visuals/">
          <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-00B1DE?style=for-the-badge&logo=person&logoColor=white"/></a> 
          <a href="https://www.instagram.com/vanguard_visuals/">
-         <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-00B1DE?style=for-the-badge&logo=person&logoColor=white"/></a> 
+         <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-00B1DE?style=for-the-badge&logo=person&logoColor=white"/></a>  -->
    </p>
 
 ---
