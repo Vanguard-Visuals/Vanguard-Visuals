@@ -8,11 +8,11 @@ Please feel free to browse around my projects and follow me on instagram @Vangua
 
    <p align="left">
       <a href="https://www.instagram.com/vanguard_visuals/">
-         <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-00B1DE?style=for-the-badge&logo=person&logoColor=white"/></a>
-<!--          <a href="https://www.instagram.com/vanguard_visuals/">
-         <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-00B1DE?style=for-the-badge&logo=person&logoColor=white"/></a> 
-         <a href="https://www.instagram.com/vanguard_visuals/">
-         <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-00B1DE?style=for-the-badge&logo=person&logoColor=white"/></a>  -->
+         <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-E29E21?style=for-the-badge&logo=person&logoColor=white"/></a>
+         <a href="mailto:vanguardvisuals01@gmail.com">
+         <img alt="email" title="Require my services?" src="https://custom-icon-badges.demolab.com/badge/-Email-F25278?style=for-the-badge&logo=mail&logoColor=white"/></a> 
+   <a href="https://www.linkedin.com/in/mahmed01/">
+         <img alt="linkedin" title="Connect on linkedin" src="https://custom-icon-badges.demolab.com/badge/-linkedin-4393D1?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    </p>
 
 ---
