@@ -35,6 +35,7 @@ Please feel free to browse around my projects and follow me on instagram @Vangua
 <img align="left" alt="unity" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg"/>
 <img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg"/>
 <img align="left" alt="firebase" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"/>
 <br />
 <br>
 <br>
