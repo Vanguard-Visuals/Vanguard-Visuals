@@ -18,6 +18,7 @@ Please feel free to browse around my projects and follow me on instagram @Vangua
 ---
 
 ### :wrench: Languages and Tools
+<div style="background-color: #f2f2f2;">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -36,6 +37,8 @@ Please feel free to browse around my projects and follow me on instagram @Vangua
 <img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg"/>
 <img align="left" alt="firebase" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"/>
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg"/>
+</div>
 <br />
 <br>
 <br>
