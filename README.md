@@ -1,10 +1,13 @@
 # :wave: MAHDI AHMED | VANGUARD VISUALS
 
-**`Graphic Designer, Content Creator & Passionate Developer`**
+**`FULL STACK DEVELOPER, GRAPHIC DESIGNER AND VIDEOGRAPHER`**
 
 Hope your day is going well!
-It is a pleasure to welcome you to my portfolio. I am all about design and development, having more than 4+ years of experience in user interface and experience design, full stack development and even dabbling in game dev and 3D software. I am an undergrad and am currently pursuing an honours degree in digital media development at the univeristy of westminster. Aside from programming, I am a freelance graphic designer, photographer, and filmmaker. At this point, you've undoubtedly figured out that I enjoy putting pen to paper and coming up with new ideas and methods to contribute to the digital world.
-Please feel free to browse around my projects and follow me on instagram @Vanguard_Visuals :v:
+It is a pleasure to welcome you to my portfolio.<br>With over 4+ years of programming expertise, I am all about design and development!
+<br>
+<br>
+I am a full-stack web and mobile application developer who has also dabbled in data analysis, UX/UI design, and game development. I am an undergrad student and am currently pursuing an honours degree in digital media development at the univeristy of westminster. Aside from programming, I am a freelance graphic designer and filmmaker. At this point, you've undoubtedly figured out that I enjoy putting pen to paper and coming up with new ideas and methods to contribute to the digital world.
+Please feel free to browse around my projects and follow me on my socials! :v:
 
    <p align="left">
       <a href="https://www.instagram.com/vanguard_visuals/">
