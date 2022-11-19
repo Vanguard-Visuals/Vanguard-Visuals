@@ -11,7 +11,7 @@ Please feel free to browse around my projects and follow me on my socials! :v:
 
    <p align="left">
       <a href="https://www.instagram.com/vanguard_visuals/">
-         <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-E29E21?style=for-the-badge&logo=person&logoColor=white"/></a>
+         <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-5851DB?style=for-the-badge&logo=instagram&logoColor=white"/></a>
          <a href="mailto:vanguardvisuals01@gmail.com">
          <img alt="email" title="Require my services?" src="https://custom-icon-badges.demolab.com/badge/-Email-F25278?style=for-the-badge&logo=mail&logoColor=white"/></a> 
    <a href="https://www.linkedin.com/in/mahmed01/">
@@ -21,15 +21,17 @@ Please feel free to browse around my projects and follow me on my socials! :v:
 ---
 
 ### :wrench: Languages and Tools
-<div style="background-color: #f2f2f2;">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" />
+<img align="left" alt="SPSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spss/spss-original.svg" />
 <img align="left" alt="androidStudio" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg"/>
+<img align="left" alt="XCode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" />
 <img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg"/>
 <img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="sqlite" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original-wordmark.svg"/>
@@ -41,7 +43,6 @@ Please feel free to browse around my projects and follow me on my socials! :v:
 <img align="left" alt="firebase" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"/>
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg"/>
-</div>
 <br />
 <br>
 <br>
