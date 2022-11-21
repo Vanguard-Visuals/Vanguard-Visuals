@@ -11,17 +11,18 @@ Please feel free to browse around my projects and follow me on my socials! :v:
 
    <p align="left">
       <a href="https://www.instagram.com/vanguard_visuals/">
-         <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-5851DB?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+         <img alt="Instagram" height="40px" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-5851DB?style=for-the-badge&logo=instagram&logoColor=white"/></a>
          <a href="mailto:vanguardvisuals01@gmail.com">
-         <img alt="email" title="Require my services?" src="https://custom-icon-badges.demolab.com/badge/-Email-F25278?style=for-the-badge&logo=mail&logoColor=white"/></a> 
+         <img alt="email" height="40px" title="Require my services?" src="https://custom-icon-badges.demolab.com/badge/-Contact-F25278?style=for-the-badge&logo=mail&logoColor=white"/></a> 
    <a href="https://www.linkedin.com/in/mahmed01/">
-         <img alt="linkedin" title="Connect on linkedin" src="https://custom-icon-badges.demolab.com/badge/-linkedin-4393D1?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+         <img alt="linkedin" height="40px" title="Connect on linkedin" src="https://custom-icon-badges.demolab.com/badge/-Connect-4393D1?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    </p>
 
 ---
 
 ### :wrench: Languages and Tools
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
