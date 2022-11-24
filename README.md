@@ -50,7 +50,7 @@ Please feel free to browse around my projects and follow me on my socials! :v:
 
 ---
 
-### :bulb: My Hobbies
+<!-- ### :bulb: My Hobbies -->
 
 
 
