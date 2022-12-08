@@ -43,6 +43,7 @@ Please feel free to browse around my projects and follow me on my socials! :v:
 <img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg"/>
 <img align="left" alt="firebase" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"/>
+<img align="left" alt="TS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg"/>
 <br />
 <br>
